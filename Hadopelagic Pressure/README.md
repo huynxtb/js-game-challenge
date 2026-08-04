@@ -1,0 +1,1 @@
+Hadopelagic Pressure is a text-based deep-sea survival game. Control a research submarine exploring the Mariana Trench. Collect 5 unique biological specimens and return to the surface (0m) to win. Manage your hull integrity, oxygen level, and battery charge while avoiding environmental hazards. Run the game using: node hadopelagic_pressure.js

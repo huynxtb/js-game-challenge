@@ -1,0 +1,1 @@
+Geothermal Gridmaster is a command-line resource management game. You must generate 10,000 MW of electricity by managing a subterranean power plant before running out of money, suffering a volcanic meltdown, or structural collapse. Run the game using Node.js: `node geothermal_gridmaster.js`.

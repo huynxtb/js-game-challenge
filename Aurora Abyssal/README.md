@@ -1,0 +1,1 @@
+Aurora Abyssal is a turn-based deep-sea exploration game. Navigate a 5x5 grid representing the ocean depths. Scan for resources and hazards, salvage ancient artifacts, and manage your oxygen, power, and light levels. Retrieve all 3 artifacts and return to the surface (0m depth) to win. Run the game using: node aurora_abyssal.js

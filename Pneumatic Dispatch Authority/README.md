@@ -1,0 +1,1 @@
+Pneumatic Dispatch Authority is a Victorian-era terminal strategy game. Manage steam pressure, pipe integrity, coal, and budget to route 30 canisters to their destinations. Avoid boiler explosions and pipe collapses. Run using: node pneumatic_dispatch_authority.js

@@ -1,0 +1,1 @@
+Osmotic Aquifer Regulator is a terminal-based resource management game. As the operator of a subterranean water-filtration system, you must survive 25 cycles while balancing freshwater levels, brine concentration, chamber integrity, filter health, and power grid reserves. Run the game using Node.js: 'node game.js'.

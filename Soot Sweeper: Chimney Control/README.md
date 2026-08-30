@@ -1,0 +1,1 @@
+Soot Sweeper: Chimney Control is a turn-based management game where you run a team of Victorian chimney sweeps. Clean 5 chimneys of increasing difficulty while managing crew fatigue, scraper durability, creosote buildup, and your funds. Watch out for soot collapses and chimney fires! Run the game using: node soot_sweeper.js

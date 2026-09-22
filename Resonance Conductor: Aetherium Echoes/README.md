@@ -1,0 +1,1 @@
+Welcome to Resonance Conductor: Aetherium Echoes! In this text-based game, you will manage the Aetherium Network to keep the city of Veridian powered. Use commands to tune, reinforce, and overcharge crystals while managing resources. Run the game using 'node resonance_conductor.js'.

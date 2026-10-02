@@ -1,0 +1,1 @@
+In 'Pyrocene Sporewarden: Fungal Firewall', you are tasked with defending a subterranean bastion from aggressive firestorms by cultivating and deploying fungal strains. Manage resources and survive 15 turns while maintaining core integrity. Run the game using 'node pyrocene_sporewarden.js'.

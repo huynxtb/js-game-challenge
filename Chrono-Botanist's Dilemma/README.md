@@ -1,0 +1,1 @@
+Chrono-Botanist's Dilemma is a text-based resource management game where you cultivate rare plants in a time-warped arboretum. Manage your resources wisely to restore temporal integrity before the arboretum collapses. Run the game using 'node chrono_botanists_dilemma.js'.

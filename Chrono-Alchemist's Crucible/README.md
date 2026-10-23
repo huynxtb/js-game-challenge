@@ -1,0 +1,1 @@
+Welcome to Chrono-Alchemist's Crucible! In this text-based game, you play as a Chrono-Alchemist tasked with stabilizing temporal rifts in a mystical city. Gather ingredients, brew elixirs, and stabilize rifts to save the city. Run the game using 'node chrono_alchemists_crucible.js'.

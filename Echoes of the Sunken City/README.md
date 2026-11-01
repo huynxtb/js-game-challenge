@@ -1,0 +1,1 @@
+Echoes of the Sunken City is a text-based adventure game where you explore underwater ruins, collect artifacts, and manage resources. Run the game using 'node echoes_of_the_sunken_city.js'.

@@ -1,0 +1,1 @@
+Welcome to Subterranean Scribe! Manage an archive of ancient texts while dealing with resource depletion and geological hazards. Use Node.js to run the game by executing 'node subterranean_scribe.js' in your terminal.

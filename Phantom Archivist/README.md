@@ -1,0 +1,1 @@
+Welcome to Phantom Archivist! Uncover the secrets of the forgotten library. To run the game, save the code in a file named 'phantom_archivist.js' and execute it using the command 'node phantom_archivist.js'.

@@ -1,0 +1,1 @@
+Chrono Collector is a text-based game where you play as a time-traveling archaeologist. Your goal is to gather valuable artifacts from different time periods while managing your limited resources and avoiding time paradoxes. To play, save the code in a file named 'chrono_collector.js' and run 'node chrono_collector.js' in your terminal.

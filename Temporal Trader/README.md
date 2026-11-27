@@ -1,0 +1,1 @@
+Temporal Trader is a console-based game where you manage resources and trade goods through different historical eras to maximize your wealth. Start with $1000 and aim to reach $5000 within 30 turns. Use the commands 'buy', 'sell', or 'next' to manage your trading actions. Run the game using 'node temporal_trader.js'.
